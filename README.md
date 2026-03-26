@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tainá Celine
 
-**`Desenvolvedora em formação | Python • Web • Banco de Dados | Foco em Segurança 🛡️`**
+**`Desenvolvedora em formação | Python • Web • Banco de Dados • Ia| Foco em Segurança 🛡️`**
 
 Tainá Celine • 17 anos • Fortaleza/CE 📍
 Téc. em Desenvolvimento de Sistemas 🎓
@@ -80,17 +80,13 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Tainaceline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=Tainaceline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainaceline&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainaceline&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1"
   />
-
 </p>
