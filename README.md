@@ -79,19 +79,10 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tainaceline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tainaceline&layout=compact&theme=tokyonight&langs_count=9"
-  />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tainaceline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tainaceline&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Tainaceline&theme=tokyonight"
-  />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Tainaceline&theme=tokyonight"/>
 </p>
