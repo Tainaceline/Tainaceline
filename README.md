@@ -6,7 +6,7 @@ Tainá Celine • 17 anos • Fortaleza/CE 📍
 Téc. em Desenvolvimento de Sistemas 🎓
 Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 
-🔗 LinkedIn: linkedin.com/in/Tainá Celine
+🔗 LinkedIn: linkedin.com/in/Tainá Celine<br>
 🔗 Portifólio:https://tainaceline.github.io/portifolio/
 
 ---
@@ -81,15 +81,13 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Tainaceline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1" 
+    src="https://github-readme-stats.vercel.app/api?username=Tainaceline&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
 
   <img 
     align="left" 
-    alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainaceline&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainaceline&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=1800" 
   />
 </p>
