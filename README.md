@@ -55,8 +55,8 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
- <img src="https://cdn.simpleicons.org/docker" width="30"/>
+
+
 <img 
     align="left" 
     alt="mysql" 
@@ -65,6 +65,25 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="IA" 
+    title="IA"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/color/48/artificial-intelligence.png"
+/>
+
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/docker" width="30"
+/>
+          
           
 
 <br/>
