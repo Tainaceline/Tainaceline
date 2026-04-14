@@ -63,6 +63,7 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img src="https://cdn.simpleicons.org/tensorflow" width="30"/>
 <img 
     align="left" 
     alt="mysql" 
