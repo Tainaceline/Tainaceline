@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tainá Celine
 
-**`Desenvolvedora em formação | Python • Web • Ia| Foco em Segurança 🛡️`**
+**`Desenvolvedora em formação | Python • Web • Ia|`**
 
 Tainá Celine • 17 anos • Fortaleza/CE 📍
 Téc. em Desenvolvimento de Sistemas 🎓
