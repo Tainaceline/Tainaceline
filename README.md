@@ -33,11 +33,11 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 
 <img 
     align="left" 
-    alt="Design" 
-    title="Design"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9tsLtDWAlHtEbTo5AvUTfDIdVCjv4nxSNVSRi9xYLQ&s=10)" 
 />
 <img 
     align="left" 
