@@ -37,7 +37,7 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLYa-0oMlEQ45lamBg77YwlLnCFf1Vo7zxLj8XcKuYA&s=10"
+    src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLYa-0oMlEQ45lamBg77YwlLnCFf1Vo7zxLj8XcKuYA&s=10"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0_kgfVALj178c_-ygxizvFITaEcXASwe2QQ0UfPDFg&s=10)"
 />
 <img 
     align="left" 
