@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação | Python • Web • Ia|`**
 
-Tainá Celine • Fortaleza/CE 📍
+Tainá • Fortaleza/CE 📍
 Téc. em Desenvolvimento de Sistemas 🎓
 Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 
