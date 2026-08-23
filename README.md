@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tainá Celine
+# 👩🏻‍💻 Tainá Cardoso
 
 **`Desenvolvedora em formação | Python • Web • Ia|`**
 
