@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tainá Cardoso
+# 👩🏻‍💻 Tainá 
 
 **`Desenvolvedora em formação | Python • Web • Ia|`**
 
