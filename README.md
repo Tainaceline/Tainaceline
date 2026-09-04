@@ -31,14 +31,7 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 />
 
 
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0_kgfVALj178c_-ygxizvFITaEcXASwe2QQ0UfPDFg&s=10"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
 <img 
     align="left" 
     alt="Git" 
@@ -57,15 +50,7 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 />
 
 
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img 
     align="left" 
     alt="IA" 
@@ -74,7 +59,7 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
     style="padding-right: 10px;"
     src="https://img.icons8.com/color/48/artificial-intelligence.png"
 />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 <img 
     align="left" 
     alt="docker" 
