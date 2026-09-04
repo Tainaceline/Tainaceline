@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tainá 
 
-**`Desenvolvedora em formação | Python • Web • Ia|`**
+**`Desenvolvedora Back End| Python • Web • FastApi • Django |`**
 
 Tainá • Fortaleza/CE 📍
 Téc. em Desenvolvimento de Sistemas 🎓
