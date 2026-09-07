@@ -3,8 +3,8 @@
 **`Desenvolvedora Back End| Python • Web • FastApi • Django |`**
 
 Tainá • Fortaleza/CE 📍
-Téc. em Desenvolvimento de Sistemas 🎓
-Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
+Téc. em Desenvolvimento de Sistemas 
+Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 
 
 🔗 LinkedIn: linkedin.com/in/Tainá Celine<br>
 🔗 Portifólio:https://tainaceline.github.io/portifolio/
@@ -19,7 +19,7 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
