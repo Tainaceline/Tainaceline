@@ -9,6 +9,14 @@ Graduando em Análise e Desenvolvimento de Sistemas — UNINASSAU 💻
 🔗 LinkedIn: linkedin.com/in/Tainá Celine<br>
 🔗 Portifólio:https://tainaceline.github.io/portifolio/
 
+### 📦 Projetos em Destaque
+
+| Projeto | Descrição | Tech | Link |
+|---------|-----------|------|------|
+| **Projeto 1** | O que faz | React, Node | [Repo](link) |
+| **Projeto 2** | O que faz | Python, Django | [Repo](link) |
+| **Projeto 3** | O que faz | Vue, Firebase | [Repo](link) |
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
